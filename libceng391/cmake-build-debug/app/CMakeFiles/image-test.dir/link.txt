@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\image-test.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\image-test.dir/objects.a @CMakeFiles\image-test.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\image-test.dir/objects.a -Wl,--no-whole-archive -o image-test.exe -Wl,--out-implib,libimage-test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\image-test.dir\linklibs.rsp

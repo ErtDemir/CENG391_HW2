@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/src",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/src/../include\"    -Wall -Wextra -std=c++17 -o CMakeFiles/ceng391.dir/image.cpp.o -c \"/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/src/image.cpp\"",
+  "file": "/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/src/image.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/app",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/src/../include\"    -Wall -Wextra -std=c++17 -o CMakeFiles/image-box-filter.dir/image_box_filter.cpp.o -c \"/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/app/image_box_filter.cpp\"",
+  "file": "/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/app/image_box_filter.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/build/app",
+  "command": "/usr/bin/c++   -I\"/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/src/../include\"    -Wall -Wextra -std=c++17 -o CMakeFiles/image-test.dir/image_test.cpp.o -c \"/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/app/image_test.cpp\"",
+  "file": "/mnt/c/Users/Ertugrul Demir/Desktop/libceng391/app/image_test.cpp"
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/src",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/ceng391.dir/includes_CXX.rsp -g -Wall -Wextra -std=c++1z -o CMakeFiles\\ceng391.dir\\image.cpp.obj -c \"C:\\Users\\Ertugrul Demir\\Desktop\\libceng391\\src\\image.cpp\"",
+  "file": "C:/Users/Ertugrul Demir/Desktop/libceng391/src/image.cpp"
+},
+{
+  "directory": "C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/app",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/image-test.dir/includes_CXX.rsp -g -Wall -Wextra -std=c++1z -o CMakeFiles\\image-test.dir\\image_test.cpp.obj -c \"C:\\Users\\Ertugrul Demir\\Desktop\\libceng391\\app\\image_test.cpp\"",
+  "file": "C:/Users/Ertugrul Demir/Desktop/libceng391/app/image_test.cpp"
+},
+{
+  "directory": "C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/app",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/image-box-filter.dir/includes_CXX.rsp -g -Wall -Wextra -std=c++1z -o CMakeFiles\\image-box-filter.dir\\image_box_filter.cpp.obj -c \"C:\\Users\\Ertugrul Demir\\Desktop\\libceng391\\app\\image_box_filter.cpp\"",
+  "file": "C:/Users/Ertugrul Demir/Desktop/libceng391/app/image_box_filter.cpp"
+}
+]

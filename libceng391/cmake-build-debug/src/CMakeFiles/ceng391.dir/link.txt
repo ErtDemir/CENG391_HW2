@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libceng391.a CMakeFiles/ceng391.dir/image.cpp.obj
+C:\MinGW\bin\ranlib.exe libceng391.a

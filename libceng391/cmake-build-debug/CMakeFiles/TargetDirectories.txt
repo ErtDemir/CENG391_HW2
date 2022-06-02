@@ -1,0 +1,9 @@
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/src/CMakeFiles/ceng391.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/app/CMakeFiles/rebuild_cache.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/app/CMakeFiles/image-test.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/app/CMakeFiles/image-box-filter.dir
+C:/Users/Ertugrul Demir/Desktop/libceng391/cmake-build-debug/app/CMakeFiles/edit_cache.dir
